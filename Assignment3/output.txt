@@ -1,0 +1,1878 @@
+Let's start a game!! Random seed is 0
+
+Score: -52
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --       empty          empty       empty       empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+                ♠K           --           --           --           --           --        
+                             ♦A           --           --           --           --        
+                                          ♠7           --           --           --        
+                                                       ♣5           --           --        
+                                                                    ♣4           --        
+                                                                                 ♠2        
+
+---------------------------------------------------------------------------------------------
+1: ♦A moved from playing pile #3 to output pile #1
+Score: -47
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --       empty            ♦A        empty       empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+                ♠K           ♣J           --           --           --           --        
+                                          --           --           --           --        
+                                          ♠7           --           --           --        
+                                                       ♣5           --           --        
+                                                                    ♣4           --        
+                                                                                 ♠2        
+
+---------------------------------------------------------------------------------------------
+2: ♥2 moved from stock pile to waste pile
+Score: -47
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥2              ♦A        empty       empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+                ♠K           ♣J           --           --           --           --        
+                                          --           --           --           --        
+                                          ♠7           --           --           --        
+                                                       ♣5           --           --        
+                                                                    ♣4           --        
+                                                                                 ♠2        
+
+---------------------------------------------------------------------------------------------
+3: ♥7 moved from stock pile to waste pile
+Score: -47
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥7              ♦A        empty       empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+                ♠K           ♣J           --           --           --           --        
+                                          --           --           --           --        
+                                          ♠7           --           --           --        
+                                                       ♣5           --           --        
+                                                                    ♣4           --        
+                                                                                 ♠2        
+
+---------------------------------------------------------------------------------------------
+4: ♦5 moved from stock pile to waste pile
+Score: -47
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦5              ♦A        empty       empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+                ♠K           ♣J           --           --           --           --        
+                                          --           --           --           --        
+                                          ♠7           --           --           --        
+                                                       ♣5           --           --        
+                                                                    ♣4           --        
+                                                                                 ♠2        
+
+---------------------------------------------------------------------------------------------
+5: ♦3 moved from stock pile to waste pile
+Score: -47
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦3              ♦A        empty       empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+                ♠K           ♣J           --           --           --           --        
+                                          --           --           --           --        
+                                          ♠7           --           --           --        
+                                                       ♣5           --           --        
+                                                                    ♣4           --        
+                                                                                 ♠2        
+
+---------------------------------------------------------------------------------------------
+6: ♦3 moved from waste pile to playing pile #6
+Score: -47
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦5              ♦A        empty       empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+                ♠K           ♣J           --           --           --           --        
+                                          --           --           --           --        
+                                          ♠7           --           --           --        
+                                                       ♣5           --           --        
+                                                                    ♣4           --        
+                                                                    ♦3           ♠2        
+
+---------------------------------------------------------------------------------------------
+7: ♠2 moved from playing pile #7 to playing pile #6
+Score: -47
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦5              ♦A        empty       empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+                ♠K           ♣J           --           --           --           --        
+                                          --           --           --           --        
+                                          ♠7           --           --           --        
+                                                       ♣5           --           --        
+                                                                    ♣4           ♣9        
+                                                                    ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+8: ♥A moved from stock pile to waste pile
+Score: -47
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥A              ♦A        empty       empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+                ♠K           ♣J           --           --           --           --        
+                                          --           --           --           --        
+                                          ♠7           --           --           --        
+                                                       ♣5           --           --        
+                                                                    ♣4           ♣9        
+                                                                    ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+9: ♥A moved from waste pile to output pile #2
+Score: -42
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦5              ♦A          ♥A        empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+                ♠K           ♣J           --           --           --           --        
+                                          --           --           --           --        
+                                          ♠7           --           --           --        
+                                                       ♣5           --           --        
+                                                                    ♣4           ♣9        
+                                                                    ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+10: ♥5 moved from stock pile to waste pile
+Score: -42
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥5              ♦A          ♥A        empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+                ♠K           ♣J           --           --           --           --        
+                                          --           --           --           --        
+                                          ♠7           --           --           --        
+                                                       ♣5           --           --        
+                                                                    ♣4           ♣9        
+                                                                    ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+11: ♠Q moved from stock pile to waste pile
+Score: -42
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♠Q              ♦A          ♥A        empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+                ♠K           ♣J           --           --           --           --        
+                                          --           --           --           --        
+                                          ♠7           --           --           --        
+                                                       ♣5           --           --        
+                                                                    ♣4           ♣9        
+                                                                    ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+12: ♠Q moved from waste pile to playing pile #1
+Score: -42
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥5              ♦A          ♥A        empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+   ♠Q           ♠K           ♣J           --           --           --           --        
+                                          --           --           --           --        
+                                          ♠7           --           --           --        
+                                                       ♣5           --           --        
+                                                                    ♣4           ♣9        
+                                                                    ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+13: ♥4 moved from stock pile to waste pile
+Score: -42
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥4              ♦A          ♥A        empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+   ♠Q           ♠K           ♣J           --           --           --           --        
+                                          --           --           --           --        
+                                          ♠7           --           --           --        
+                                                       ♣5           --           --        
+                                                                    ♣4           ♣9        
+                                                                    ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+14: ♥4 moved from waste pile to playing pile #5
+Score: -42
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥5              ♦A          ♥A        empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+   ♠Q           ♠K           ♣J           --           --           --           --        
+                                          --           --           --           --        
+                                          ♠7           --           --           --        
+                                                       ♣5           --           --        
+                                                       ♥4           ♣4           ♣9        
+                                                                    ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+15: ♠10 moved from stock pile to waste pile
+Score: -42
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♠10             ♦A          ♥A        empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+   ♠Q           ♠K           ♣J           --           --           --           --        
+                                          --           --           --           --        
+                                          ♠7           --           --           --        
+                                                       ♣5           --           --        
+                                                       ♥4           ♣4           ♣9        
+                                                                    ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+16: ♠6 moved from stock pile to waste pile
+Score: -42
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♠6              ♦A          ♥A        empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+   ♠Q           ♠K           ♣J           --           --           --           --        
+                                          --           --           --           --        
+                                          ♠7           --           --           --        
+                                                       ♣5           --           --        
+                                                       ♥4           ♣4           ♣9        
+                                                                    ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+17: ♦J moved from stock pile to waste pile
+Score: -42
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦J              ♦A          ♥A        empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+   ♠Q           ♠K           ♣J           --           --           --           --        
+                                          --           --           --           --        
+                                          ♠7           --           --           --        
+                                                       ♣5           --           --        
+                                                       ♥4           ♣4           ♣9        
+                                                                    ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+18: ♦J moved from waste pile to playing pile #1
+Score: -42
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♠6              ♦A          ♥A        empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+   ♠Q           ♠K           ♣J           --           --           --           --        
+   ♦J                                     --           --           --           --        
+                                          ♠7           --           --           --        
+                                                       ♣5           --           --        
+                                                       ♥4           ♣4           ♣9        
+                                                                    ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+19: ♠4 moved from stock pile to waste pile
+Score: -42
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♠4              ♦A          ♥A        empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+   ♠Q           ♠K           ♣J           --           --           --           --        
+   ♦J                                     --           --           --           --        
+                                          ♠7           --           --           --        
+                                                       ♣5           --           --        
+                                                       ♥4           ♣4           ♣9        
+                                                                    ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+20: ♦2 moved from stock pile to waste pile
+Score: -42
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦2              ♦A          ♥A        empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+   ♠Q           ♠K           ♣J           --           --           --           --        
+   ♦J                                     --           --           --           --        
+                                          ♠7           --           --           --        
+                                                       ♣5           --           --        
+                                                       ♥4           ♣4           ♣9        
+                                                                    ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+21: ♦2 moved from waste pile to output pile #1
+Score: -37
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♠4              ♦2          ♥A        empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+   ♠Q           ♠K           ♣J           --           --           --           --        
+   ♦J                                     --           --           --           --        
+                                          ♠7           --           --           --        
+                                                       ♣5           --           --        
+                                                       ♥4           ♣4           ♣9        
+                                                                    ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+22: ♦4 moved from stock pile to waste pile
+Score: -37
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦4              ♦2          ♥A        empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+   ♠Q           ♠K           ♣J           --           --           --           --        
+   ♦J                                     --           --           --           --        
+                                          ♠7           --           --           --        
+                                                       ♣5           --           --        
+                                                       ♥4           ♣4           ♣9        
+                                                                    ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+23: ♣A moved from stock pile to waste pile
+Score: -37
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣A              ♦2          ♥A        empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+   ♠Q           ♠K           ♣J           --           --           --           --        
+   ♦J                                     --           --           --           --        
+                                          ♠7           --           --           --        
+                                                       ♣5           --           --        
+                                                       ♥4           ♣4           ♣9        
+                                                                    ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+24: ♣A moved from waste pile to output pile #3
+Score: -32
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦4              ♦2          ♥A          ♣A        empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+   ♠Q           ♠K           ♣J           --           --           --           --        
+   ♦J                                     --           --           --           --        
+                                          ♠7           --           --           --        
+                                                       ♣5           --           --        
+                                                       ♥4           ♣4           ♣9        
+                                                                    ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+25: ♥6 moved from stock pile to waste pile
+Score: -32
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥6              ♦2          ♥A          ♣A        empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+   ♠Q           ♠K           ♣J           --           --           --           --        
+   ♦J                                     --           --           --           --        
+                                          ♠7           --           --           --        
+                                                       ♣5           --           --        
+                                                       ♥4           ♣4           ♣9        
+                                                                    ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+26: ♥6 moved from waste pile to playing pile #4
+Score: -32
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦4              ♦2          ♥A          ♣A        empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+   ♠Q           ♠K           ♣J           --           --           --           --        
+   ♦J                                     --           --           --           --        
+                                          ♠7           --           --           --        
+                                          ♥6           ♣5           --           --        
+                                                       ♥4           ♣4           ♣9        
+                                                                    ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+27: ♣5 moved from playing pile #5 to playing pile #4
+27: ♥4 moved from playing pile #5 to playing pile #4
+Score: -32
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦4              ♦2          ♥A          ♣A        empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+   ♠Q           ♠K           ♣J           --           --           --           --        
+   ♦J                                     --           --           --           --        
+                                          ♠7           ♦9           --           --        
+                                          ♥6                        --           --        
+                                          ♣5                        ♣4           ♣9        
+                                          ♥4                        ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+28: ♥10 moved from stock pile to waste pile
+Score: -32
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥10             ♦2          ♥A          ♣A        empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+   ♠Q           ♠K           ♣J           --           --           --           --        
+   ♦J                                     --           --           --           --        
+                                          ♠7           ♦9           --           --        
+                                          ♥6                        --           --        
+                                          ♣5                        ♣4           ♣9        
+                                          ♥4                        ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+29: ♥10 moved from waste pile to playing pile #3
+Score: -32
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦4              ♦2          ♥A          ♣A        empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+   ♠Q           ♠K           ♣J           --           --           --           --        
+   ♦J                        ♥10          --           --           --           --        
+                                          ♠7           ♦9           --           --        
+                                          ♥6                        --           --        
+                                          ♣5                        ♣4           ♣9        
+                                          ♥4                        ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+30: ♣9 moved from playing pile #7 to playing pile #3
+Score: -32
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦4              ♦2          ♥A          ♣A        empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+   ♠Q           ♠K           ♣J           --           --           --           --        
+   ♦J                        ♥10          --           --           --           --        
+                             ♣9           ♠7           ♦9           --           --        
+                                          ♥6                        --           ♥9        
+                                          ♣5                        ♣4                     
+                                          ♥4                        ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+31: ♠J moved from stock pile to waste pile
+Score: -32
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♠J              ♦2          ♥A          ♣A        empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+   ♠Q           ♠K           ♣J           --           --           --           --        
+   ♦J                        ♥10          --           --           --           --        
+                             ♣9           ♠7           ♦9           --           --        
+                                          ♥6                        --           ♥9        
+                                          ♣5                        ♣4                     
+                                          ♥4                        ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+32: ♣2 moved from stock pile to waste pile
+Score: -32
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣2              ♦2          ♥A          ♣A        empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+   ♠Q           ♠K           ♣J           --           --           --           --        
+   ♦J                        ♥10          --           --           --           --        
+                             ♣9           ♠7           ♦9           --           --        
+                                          ♥6                        --           ♥9        
+                                          ♣5                        ♣4                     
+                                          ♥4                        ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+33: ♣2 moved from waste pile to output pile #3
+Score: -27
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♠J              ♦2          ♥A          ♣2        empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+   ♠Q           ♠K           ♣J           --           --           --           --        
+   ♦J                        ♥10          --           --           --           --        
+                             ♣9           ♠7           ♦9           --           --        
+                                          ♥6                        --           ♥9        
+                                          ♣5                        ♣4                     
+                                          ♥4                        ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+34: ♣Q moved from stock pile to waste pile
+Score: -27
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣Q              ♦2          ♥A          ♣2        empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+   ♠Q           ♠K           ♣J           --           --           --           --        
+   ♦J                        ♥10          --           --           --           --        
+                             ♣9           ♠7           ♦9           --           --        
+                                          ♥6                        --           ♥9        
+                                          ♣5                        ♣4                     
+                                          ♥4                        ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+35: ♦8 moved from stock pile to waste pile
+Score: -27
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦8              ♦2          ♥A          ♣2        empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+   ♠Q           ♠K           ♣J           --           --           --           --        
+   ♦J                        ♥10          --           --           --           --        
+                             ♣9           ♠7           ♦9           --           --        
+                                          ♥6                        --           ♥9        
+                                          ♣5                        ♣4                     
+                                          ♥4                        ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+36: ♦8 moved from waste pile to playing pile #3
+Score: -27
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣Q              ♦2          ♥A          ♣2        empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+   ♠Q           ♠K           ♣J           --           --           --           --        
+   ♦J                        ♥10          --           --           --           --        
+                             ♣9           ♠7           ♦9           --           --        
+                             ♦8           ♥6                        --           ♥9        
+                                          ♣5                        ♣4                     
+                                          ♥4                        ♦3                     
+                                                                    ♠2                     
+
+---------------------------------------------------------------------------------------------
+37: ♠7 moved from playing pile #4 to playing pile #3
+37: ♥6 moved from playing pile #4 to playing pile #3
+37: ♣5 moved from playing pile #4 to playing pile #3
+37: ♥4 moved from playing pile #4 to playing pile #3
+Score: -27
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣Q              ♦2          ♥A          ♣2        empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+   ♠Q           ♠K           ♣J           --           --           --           --        
+   ♦J                        ♥10          ♣10          --           --           --        
+                             ♣9                        ♦9           --           --        
+                             ♦8                                     --           ♥9        
+                             ♠7                                     ♣4                     
+                             ♥6                                     ♦3                     
+                             ♣5                                     ♠2                     
+                             ♥4                                                            
+
+---------------------------------------------------------------------------------------------
+38: ♣10 moved from playing pile #4 to playing pile #1
+Score: -27
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣Q              ♦2          ♥A          ♣2        empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           --           --           --           --        
+   ♠Q           ♠K           ♣J           ♣8           --           --           --        
+   ♦J                        ♥10                       --           --           --        
+   ♣10                       ♣9                        ♦9           --           --        
+                             ♦8                                     --           ♥9        
+                             ♠7                                     ♣4                     
+                             ♥6                                     ♦3                     
+                             ♣5                                     ♠2                     
+                             ♥4                                                            
+
+---------------------------------------------------------------------------------------------
+39: ♣8 moved from playing pile #4 to playing pile #5
+Score: -27
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣Q              ♦2          ♥A          ♣2        empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --           ♠A           --           --           --        
+   ♠Q           ♠K           ♣J                        --           --           --        
+   ♦J                        ♥10                       --           --           --        
+   ♣10                       ♣9                        ♦9           --           --        
+                             ♦8                        ♣8           --           ♥9        
+                             ♠7                                     ♣4                     
+                             ♥6                                     ♦3                     
+                             ♣5                                     ♠2                     
+                             ♥4                                                            
+
+---------------------------------------------------------------------------------------------
+40: ♠A moved from playing pile #4 to output pile #4
+Score: -22
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣Q              ♦2          ♥A          ♣2          ♠A        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --                        --           --           --        
+   ♠Q           ♠K           ♣J                        --           --           --        
+   ♦J                        ♥10                       --           --           --        
+   ♣10                       ♣9                        ♦9           --           --        
+                             ♦8                        ♣8           --           ♥9        
+                             ♠7                                     ♣4                     
+                             ♥6                                     ♦3                     
+                             ♣5                                     ♠2                     
+                             ♥4                                                            
+
+---------------------------------------------------------------------------------------------
+41: ♠2 moved from playing pile #6 to output pile #4
+Score: -17
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣Q              ♦2          ♥A          ♣2          ♠2        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --                        --           --           --        
+   ♠Q           ♠K           ♣J                        --           --           --        
+   ♦J                        ♥10                       --           --           --        
+   ♣10                       ♣9                        ♦9           --           --        
+                             ♦8                        ♣8           --           ♥9        
+                             ♠7                                     ♣4                     
+                             ♥6                                     ♦3                     
+                             ♣5                                                            
+                             ♥4                                                            
+
+---------------------------------------------------------------------------------------------
+42: ♦3 moved from playing pile #6 to output pile #1
+Score: -12
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣Q              ♦3          ♥A          ♣2          ♠2        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           --           --                        --           --           --        
+   ♠Q           ♠K           ♣J                        --           --           --        
+   ♦J                        ♥10                       --           --           --        
+   ♣10                       ♣9                        ♦9           --           --        
+                             ♦8                        ♣8           --           ♥9        
+                             ♠7                                     ♣4                     
+                             ♥6                                                            
+                             ♣5                                                            
+                             ♥4                                                            
+
+---------------------------------------------------------------------------------------------
+43: ♠K moved from playing pile #2 to playing pile #4
+Score: -12
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣Q              ♦3          ♥A          ♣2          ♠2        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           ♣6           --           ♠K           --           --           --        
+   ♠Q                        ♣J                        --           --           --        
+   ♦J                        ♥10                       --           --           --        
+   ♣10                       ♣9                        ♦9           --           --        
+                             ♦8                        ♣8           --           ♥9        
+                             ♠7                                     ♣4                     
+                             ♥6                                                            
+                             ♣5                                                            
+                             ♥4                                                            
+
+---------------------------------------------------------------------------------------------
+44: ♦9 moved from playing pile #5 to playing pile #1
+44: ♣8 moved from playing pile #5 to playing pile #1
+Score: -12
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣Q              ♦3          ♥A          ♣2          ♠2        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           ♣6           --           ♠K           --           --           --        
+   ♠Q                        ♣J                        --           --           --        
+   ♦J                        ♥10                       ♠5           --           --        
+   ♣10                       ♣9                                     --           --        
+   ♦9                        ♦8                                     --           ♥9        
+   ♣8                        ♠7                                     ♣4                     
+                             ♥6                                                            
+                             ♣5                                                            
+                             ♥4                                                            
+
+---------------------------------------------------------------------------------------------
+45: ♦K moved from stock pile to waste pile
+Score: -12
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦K              ♦3          ♥A          ♣2          ♠2        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           ♣6           --           ♠K           --           --           --        
+   ♠Q                        ♣J                        --           --           --        
+   ♦J                        ♥10                       ♠5           --           --        
+   ♣10                       ♣9                                     --           --        
+   ♦9                        ♦8                                     --           ♥9        
+   ♣8                        ♠7                                     ♣4                     
+                             ♥6                                                            
+                             ♣5                                                            
+                             ♥4                                                            
+
+---------------------------------------------------------------------------------------------
+46: ♦7 moved from stock pile to waste pile
+Score: -12
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦7              ♦3          ♥A          ♣2          ♠2        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           ♣6           --           ♠K           --           --           --        
+   ♠Q                        ♣J                        --           --           --        
+   ♦J                        ♥10                       ♠5           --           --        
+   ♣10                       ♣9                                     --           --        
+   ♦9                        ♦8                                     --           ♥9        
+   ♣8                        ♠7                                     ♣4                     
+                             ♥6                                                            
+                             ♣5                                                            
+                             ♥4                                                            
+
+---------------------------------------------------------------------------------------------
+47: ♦7 moved from waste pile to playing pile #1
+Score: -12
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦K              ♦3          ♥A          ♣2          ♠2        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           ♣6           --           ♠K           --           --           --        
+   ♠Q                        ♣J                        --           --           --        
+   ♦J                        ♥10                       ♠5           --           --        
+   ♣10                       ♣9                                     --           --        
+   ♦9                        ♦8                                     --           ♥9        
+   ♣8                        ♠7                                     ♣4                     
+   ♦7                        ♥6                                                            
+                             ♣5                                                            
+                             ♥4                                                            
+
+---------------------------------------------------------------------------------------------
+48: ♣6 moved from playing pile #2 to playing pile #1
+Score: -12
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦K              ♦3          ♥A          ♣2          ♠2        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K                        --           ♠K           --           --           --        
+   ♠Q                        ♣J                        --           --           --        
+   ♦J                        ♥10                       ♠5           --           --        
+   ♣10                       ♣9                                     --           --        
+   ♦9                        ♦8                                     --           ♥9        
+   ♣8                        ♠7                                     ♣4                     
+   ♦7                        ♥6                                                            
+   ♣6                        ♣5                                                            
+                             ♥4                                                            
+
+---------------------------------------------------------------------------------------------
+49: ♦K moved from waste pile to playing pile #2
+Score: -12
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣Q              ♦3          ♥A          ♣2          ♠2        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           ♦K           --           ♠K           --           --           --        
+   ♠Q                        ♣J                        --           --           --        
+   ♦J                        ♥10                       ♠5           --           --        
+   ♣10                       ♣9                                     --           --        
+   ♦9                        ♦8                                     --           ♥9        
+   ♣8                        ♠7                                     ♣4                     
+   ♦7                        ♥6                                                            
+   ♣6                        ♣5                                                            
+                             ♥4                                                            
+
+---------------------------------------------------------------------------------------------
+50: ♣Q moved from waste pile to playing pile #2
+Score: -12
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♠J              ♦3          ♥A          ♣2          ♠2        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           ♦K           --           ♠K           --           --           --        
+   ♠Q           ♣Q           ♣J                        --           --           --        
+   ♦J                        ♥10                       ♠5           --           --        
+   ♣10                       ♣9                                     --           --        
+   ♦9                        ♦8                                     --           ♥9        
+   ♣8                        ♠7                                     ♣4                     
+   ♦7                        ♥6                                                            
+   ♣6                        ♣5                                                            
+                             ♥4                                                            
+
+---------------------------------------------------------------------------------------------
+51: ♣7 moved from stock pile to waste pile
+Score: -12
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+empty      ♣7              ♦3          ♥A          ♣2          ♠2        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           ♦K           --           ♠K           --           --           --        
+   ♠Q           ♣Q           ♣J                        --           --           --        
+   ♦J                        ♥10                       ♠5           --           --        
+   ♣10                       ♣9                                     --           --        
+   ♦9                        ♦8                                     --           ♥9        
+   ♣8                        ♠7                                     ♣4                     
+   ♦7                        ♥6                                                            
+   ♣6                        ♣5                                                            
+                             ♥4                                                            
+
+---------------------------------------------------------------------------------------------
+Final Status
+Score: -12
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+empty      ♣7              ♦3          ♥A          ♣2          ♠2        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♥K           ♦K           --           ♠K           --           --           --        
+   ♠Q           ♣Q           ♣J                        --           --           --        
+   ♦J                        ♥10                       ♠5           --           --        
+   ♣10                       ♣9                                     --           --        
+   ♦9                        ♦8                                     --           ♥9        
+   ♣8                        ♠7                                     ♣4                     
+   ♦7                        ♥6                                                            
+   ♣6                        ♣5                                                            
+                             ♥4                                                            
+
+---------------------------------------------------------------------------------------------
+Game End!! Your final score is -12
+
+
+
+---------------------------------------------------------------------------------------------
+Let's start a game!! Random seed is 1
+
+Score: -52
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --       empty          empty       empty       empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♠3           --           --           --           --           --           --        
+                ♥9           --           --           --           --           --        
+                             ♥A           --           --           --           --        
+                                          ♠10          --           --           --        
+                                                       ♠Q           --           --        
+                                                                    ♠5           --        
+                                                                                 ♠8        
+
+---------------------------------------------------------------------------------------------
+1: ♥A moved from playing pile #3 to output pile #1
+Score: -47
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --       empty            ♥A        empty       empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♠3           --           --           --           --           --           --        
+                ♥9           ♣5           --           --           --           --        
+                                          --           --           --           --        
+                                          ♠10          --           --           --        
+                                                       ♠Q           --           --        
+                                                                    ♠5           --        
+                                                                                 ♠8        
+
+---------------------------------------------------------------------------------------------
+2: ♣2 moved from stock pile to waste pile
+Score: -47
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣2              ♥A        empty       empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♠3           --           --           --           --           --           --        
+                ♥9           ♣5           --           --           --           --        
+                                          --           --           --           --        
+                                          ♠10          --           --           --        
+                                                       ♠Q           --           --        
+                                                                    ♠5           --        
+                                                                                 ♠8        
+
+---------------------------------------------------------------------------------------------
+3: ♥9 moved from playing pile #2 to playing pile #4
+Score: -47
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣2              ♥A        empty       empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♠3           ♦6           --           --           --           --           --        
+                             ♣5           --           --           --           --        
+                                          --           --           --           --        
+                                          ♠10          --           --           --        
+                                          ♥9           ♠Q           --           --        
+                                                                    ♠5           --        
+                                                                                 ♠8        
+
+---------------------------------------------------------------------------------------------
+4: ♣5 moved from playing pile #3 to playing pile #2
+Score: -47
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣2              ♥A        empty       empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♠3           ♦6           ♠2           --           --           --           --        
+                ♣5                        --           --           --           --        
+                                          --           --           --           --        
+                                          ♠10          --           --           --        
+                                          ♥9           ♠Q           --           --        
+                                                                    ♠5           --        
+                                                                                 ♠8        
+
+---------------------------------------------------------------------------------------------
+5: ♠8 moved from playing pile #7 to playing pile #4
+Score: -47
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣2              ♥A        empty       empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♠3           ♦6           ♠2           --           --           --           --        
+                ♣5                        --           --           --           --        
+                                          --           --           --           --        
+                                          ♠10          --           --           --        
+                                          ♥9           ♠Q           --           --        
+                                          ♠8                        ♠5           ♠A        
+
+---------------------------------------------------------------------------------------------
+6: ♠A moved from playing pile #7 to output pile #2
+Score: -42
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣2              ♥A          ♠A        empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♠3           ♦6           ♠2           --           --           --           --        
+                ♣5                        --           --           --           --        
+                                          --           --           --           --        
+                                          ♠10          --           --           --        
+                                          ♥9           ♠Q           --           ♣4        
+                                          ♠8                        ♠5                     
+
+---------------------------------------------------------------------------------------------
+7: ♠2 moved from playing pile #3 to output pile #2
+Score: -37
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣2              ♥A          ♠2        empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♠3           ♦6                        --           --           --           --        
+                ♣5                        --           --           --           --        
+                                          --           --           --           --        
+                                          ♠10          --           --           --        
+                                          ♥9           ♠Q           --           ♣4        
+                                          ♠8                        ♠5                     
+
+---------------------------------------------------------------------------------------------
+8: ♠3 moved from playing pile #1 to output pile #2
+Score: -32
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣2              ♥A          ♠3        empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+                ♦6                        --           --           --           --        
+                ♣5                        --           --           --           --        
+                                          --           --           --           --        
+                                          ♠10          --           --           --        
+                                          ♥9           ♠Q           --           ♣4        
+                                          ♠8                        ♠5                     
+
+---------------------------------------------------------------------------------------------
+9: ♦A moved from stock pile to waste pile
+Score: -32
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦A              ♥A          ♠3        empty       empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+                ♦6                        --           --           --           --        
+                ♣5                        --           --           --           --        
+                                          --           --           --           --        
+                                          ♠10          --           --           --        
+                                          ♥9           ♠Q           --           ♣4        
+                                          ♠8                        ♠5                     
+
+---------------------------------------------------------------------------------------------
+10: ♦A moved from waste pile to output pile #3
+Score: -27
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣2              ♥A          ♠3          ♦A        empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+                ♦6                        --           --           --           --        
+                ♣5                        --           --           --           --        
+                                          --           --           --           --        
+                                          ♠10          --           --           --        
+                                          ♥9           ♠Q           --           ♣4        
+                                          ♠8                        ♠5                     
+
+---------------------------------------------------------------------------------------------
+11: ♣A moved from stock pile to waste pile
+Score: -27
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣A              ♥A          ♠3          ♦A        empty       
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+                ♦6                        --           --           --           --        
+                ♣5                        --           --           --           --        
+                                          --           --           --           --        
+                                          ♠10          --           --           --        
+                                          ♥9           ♠Q           --           ♣4        
+                                          ♠8                        ♠5                     
+
+---------------------------------------------------------------------------------------------
+12: ♣A moved from waste pile to output pile #4
+Score: -22
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣2              ♥A          ♠3          ♦A          ♣A        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+                ♦6                        --           --           --           --        
+                ♣5                        --           --           --           --        
+                                          --           --           --           --        
+                                          ♠10          --           --           --        
+                                          ♥9           ♠Q           --           ♣4        
+                                          ♠8                        ♠5                     
+
+---------------------------------------------------------------------------------------------
+13: ♣2 moved from waste pile to output pile #4
+Score: -17
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --       empty            ♥A          ♠3          ♦A          ♣2        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+                ♦6                        --           --           --           --        
+                ♣5                        --           --           --           --        
+                                          --           --           --           --        
+                                          ♠10          --           --           --        
+                                          ♥9           ♠Q           --           ♣4        
+                                          ♠8                        ♠5                     
+
+---------------------------------------------------------------------------------------------
+14: ♥2 moved from stock pile to waste pile
+Score: -17
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥2              ♥A          ♠3          ♦A          ♣2        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+                ♦6                        --           --           --           --        
+                ♣5                        --           --           --           --        
+                                          --           --           --           --        
+                                          ♠10          --           --           --        
+                                          ♥9           ♠Q           --           ♣4        
+                                          ♠8                        ♠5                     
+
+---------------------------------------------------------------------------------------------
+15: ♥2 moved from waste pile to output pile #1
+Score: -12
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --       empty            ♥2          ♠3          ♦A          ♣2        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+                ♦6                        --           --           --           --        
+                ♣5                        --           --           --           --        
+                                          --           --           --           --        
+                                          ♠10          --           --           --        
+                                          ♥9           ♠Q           --           ♣4        
+                                          ♠8                        ♠5                     
+
+---------------------------------------------------------------------------------------------
+16: ♦Q moved from stock pile to waste pile
+Score: -12
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦Q              ♥2          ♠3          ♦A          ♣2        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+                ♦6                        --           --           --           --        
+                ♣5                        --           --           --           --        
+                                          --           --           --           --        
+                                          ♠10          --           --           --        
+                                          ♥9           ♠Q           --           ♣4        
+                                          ♠8                        ♠5                     
+
+---------------------------------------------------------------------------------------------
+17: ♥Q moved from stock pile to waste pile
+Score: -12
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥Q              ♥2          ♠3          ♦A          ♣2        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+                ♦6                        --           --           --           --        
+                ♣5                        --           --           --           --        
+                                          --           --           --           --        
+                                          ♠10          --           --           --        
+                                          ♥9           ♠Q           --           ♣4        
+                                          ♠8                        ♠5                     
+
+---------------------------------------------------------------------------------------------
+18: ♣3 moved from stock pile to waste pile
+Score: -12
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣3              ♥2          ♠3          ♦A          ♣2        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+                ♦6                        --           --           --           --        
+                ♣5                        --           --           --           --        
+                                          --           --           --           --        
+                                          ♠10          --           --           --        
+                                          ♥9           ♠Q           --           ♣4        
+                                          ♠8                        ♠5                     
+
+---------------------------------------------------------------------------------------------
+19: ♣3 moved from waste pile to output pile #4
+Score: -7
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥Q              ♥2          ♠3          ♦A          ♣3        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+                ♦6                        --           --           --           --        
+                ♣5                        --           --           --           --        
+                                          --           --           --           --        
+                                          ♠10          --           --           --        
+                                          ♥9           ♠Q           --           ♣4        
+                                          ♠8                        ♠5                     
+
+---------------------------------------------------------------------------------------------
+20: ♣4 moved from playing pile #7 to output pile #4
+Score: -2
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥Q              ♥2          ♠3          ♦A          ♣4        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+                ♦6                        --           --           --           --        
+                ♣5                        --           --           --           --        
+                                          --           --           --           --        
+                                          ♠10          --           --           ♦K        
+                                          ♥9           ♠Q           --                     
+                                          ♠8                        ♠5                     
+
+---------------------------------------------------------------------------------------------
+21: ♣5 moved from playing pile #2 to output pile #4
+Score: 3
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥Q              ♥2          ♠3          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+                ♦6                        --           --           --           --        
+                                          --           --           --           --        
+                                          --           --           --           --        
+                                          ♠10          --           --           ♦K        
+                                          ♥9           ♠Q           --                     
+                                          ♠8                        ♠5                     
+
+---------------------------------------------------------------------------------------------
+22: ♠Q moved from playing pile #5 to playing pile #7
+Score: 3
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥Q              ♥2          ♠3          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+                ♦6                        --           --           --           --        
+                                          --           --           --           --        
+                                          --           --           --           --        
+                                          ♠10          ♠6           --           ♦K        
+                                          ♥9                        --           ♠Q        
+                                          ♠8                        ♠5                     
+
+---------------------------------------------------------------------------------------------
+23: ♠5 moved from playing pile #6 to playing pile #2
+Score: 3
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥Q              ♥2          ♠3          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+                ♦6                        --           --           --           --        
+                ♠5                        --           --           --           --        
+                                          --           --           --           --        
+                                          ♠10          ♠6           --           ♦K        
+                                          ♥9                        ♠7           ♠Q        
+                                          ♠8                                               
+
+---------------------------------------------------------------------------------------------
+24: ♦6 moved from playing pile #2 to playing pile #6
+24: ♠5 moved from playing pile #2 to playing pile #6
+Score: 3
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥Q              ♥2          ♠3          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+                                          --           --           --           --        
+                                          --           --           --           --        
+                                          --           --           --           --        
+                                          ♠10          ♠6           --           ♦K        
+                                          ♥9                        ♠7           ♠Q        
+                                          ♠8                        ♦6                     
+                                                                    ♠5                     
+
+---------------------------------------------------------------------------------------------
+25: ♦K moved from playing pile #7 to playing pile #1
+25: ♠Q moved from playing pile #7 to playing pile #1
+Score: 3
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥Q              ♥2          ♠3          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K                                     --           --           --           --        
+   ♠Q                                     --           --           --           --        
+                                          --           --           --           ♦9        
+                                          ♠10          ♠6           --                     
+                                          ♥9                        ♠7                     
+                                          ♠8                        ♦6                     
+                                                                    ♠5                     
+
+---------------------------------------------------------------------------------------------
+26: ♥K moved from stock pile to waste pile
+Score: 3
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥K              ♥2          ♠3          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K                                     --           --           --           --        
+   ♠Q                                     --           --           --           --        
+                                          --           --           --           ♦9        
+                                          ♠10          ♠6           --                     
+                                          ♥9                        ♠7                     
+                                          ♠8                        ♦6                     
+                                                                    ♠5                     
+
+---------------------------------------------------------------------------------------------
+27: ♥K moved from waste pile to playing pile #2
+Score: 3
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥Q              ♥2          ♠3          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K                        --           --           --           --        
+   ♠Q                                     --           --           --           --        
+                                          --           --           --           ♦9        
+                                          ♠10          ♠6           --                     
+                                          ♥9                        ♠7                     
+                                          ♠8                        ♦6                     
+                                                                    ♠5                     
+
+---------------------------------------------------------------------------------------------
+28: ♥5 moved from stock pile to waste pile
+Score: 3
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥5              ♥2          ♠3          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K                        --           --           --           --        
+   ♠Q                                     --           --           --           --        
+                                          --           --           --           ♦9        
+                                          ♠10          ♠6           --                     
+                                          ♥9                        ♠7                     
+                                          ♠8                        ♦6                     
+                                                                    ♠5                     
+
+---------------------------------------------------------------------------------------------
+29: ♥5 moved from waste pile to playing pile #5
+Score: 3
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥Q              ♥2          ♠3          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K                        --           --           --           --        
+   ♠Q                                     --           --           --           --        
+                                          --           --           --           ♦9        
+                                          ♠10          ♠6           --                     
+                                          ♥9           ♥5           ♠7                     
+                                          ♠8                        ♦6                     
+                                                                    ♠5                     
+
+---------------------------------------------------------------------------------------------
+30: ♦5 moved from stock pile to waste pile
+Score: 3
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦5              ♥2          ♠3          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K                        --           --           --           --        
+   ♠Q                                     --           --           --           --        
+                                          --           --           --           ♦9        
+                                          ♠10          ♠6           --                     
+                                          ♥9           ♥5           ♠7                     
+                                          ♠8                        ♦6                     
+                                                                    ♠5                     
+
+---------------------------------------------------------------------------------------------
+31: ♠4 moved from stock pile to waste pile
+Score: 3
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♠4              ♥2          ♠3          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K                        --           --           --           --        
+   ♠Q                                     --           --           --           --        
+                                          --           --           --           ♦9        
+                                          ♠10          ♠6           --                     
+                                          ♥9           ♥5           ♠7                     
+                                          ♠8                        ♦6                     
+                                                                    ♠5                     
+
+---------------------------------------------------------------------------------------------
+32: ♠4 moved from waste pile to output pile #2
+Score: 8
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦5              ♥2          ♠4          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K                        --           --           --           --        
+   ♠Q                                     --           --           --           --        
+                                          --           --           --           ♦9        
+                                          ♠10          ♠6           --                     
+                                          ♥9           ♥5           ♠7                     
+                                          ♠8                        ♦6                     
+                                                                    ♠5                     
+
+---------------------------------------------------------------------------------------------
+33: ♠5 moved from playing pile #6 to output pile #2
+Score: 13
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦5              ♥2          ♠5          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K                        --           --           --           --        
+   ♠Q                                     --           --           --           --        
+                                          --           --           --           ♦9        
+                                          ♠10          ♠6           --                     
+                                          ♥9           ♥5           ♠7                     
+                                          ♠8                        ♦6                     
+
+---------------------------------------------------------------------------------------------
+34: ♣K moved from stock pile to waste pile
+Score: 13
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣K              ♥2          ♠5          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K                        --           --           --           --        
+   ♠Q                                     --           --           --           --        
+                                          --           --           --           ♦9        
+                                          ♠10          ♠6           --                     
+                                          ♥9           ♥5           ♠7                     
+                                          ♠8                        ♦6                     
+
+---------------------------------------------------------------------------------------------
+35: ♣K moved from waste pile to playing pile #3
+Score: 13
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦5              ♥2          ♠5          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K           ♣K           --           --           --           --        
+   ♠Q                                     --           --           --           --        
+                                          --           --           --           ♦9        
+                                          ♠10          ♠6           --                     
+                                          ♥9           ♥5           ♠7                     
+                                          ♠8                        ♦6                     
+
+---------------------------------------------------------------------------------------------
+36: ♣9 moved from stock pile to waste pile
+Score: 13
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣9              ♥2          ♠5          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K           ♣K           --           --           --           --        
+   ♠Q                                     --           --           --           --        
+                                          --           --           --           ♦9        
+                                          ♠10          ♠6           --                     
+                                          ♥9           ♥5           ♠7                     
+                                          ♠8                        ♦6                     
+
+---------------------------------------------------------------------------------------------
+37: ♥6 moved from stock pile to waste pile
+Score: 13
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥6              ♥2          ♠5          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K           ♣K           --           --           --           --        
+   ♠Q                                     --           --           --           --        
+                                          --           --           --           ♦9        
+                                          ♠10          ♠6           --                     
+                                          ♥9           ♥5           ♠7                     
+                                          ♠8                        ♦6                     
+
+---------------------------------------------------------------------------------------------
+38: ♥4 moved from stock pile to waste pile
+Score: 13
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥4              ♥2          ♠5          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K           ♣K           --           --           --           --        
+   ♠Q                                     --           --           --           --        
+                                          --           --           --           ♦9        
+                                          ♠10          ♠6           --                     
+                                          ♥9           ♥5           ♠7                     
+                                          ♠8                        ♦6                     
+
+---------------------------------------------------------------------------------------------
+39: ♠9 moved from stock pile to waste pile
+Score: 13
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♠9              ♥2          ♠5          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K           ♣K           --           --           --           --        
+   ♠Q                                     --           --           --           --        
+                                          --           --           --           ♦9        
+                                          ♠10          ♠6           --                     
+                                          ♥9           ♥5           ♠7                     
+                                          ♠8                        ♦6                     
+
+---------------------------------------------------------------------------------------------
+40: ♣8 moved from stock pile to waste pile
+Score: 13
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣8              ♥2          ♠5          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K           ♣K           --           --           --           --        
+   ♠Q                                     --           --           --           --        
+                                          --           --           --           ♦9        
+                                          ♠10          ♠6           --                     
+                                          ♥9           ♥5           ♠7                     
+                                          ♠8                        ♦6                     
+
+---------------------------------------------------------------------------------------------
+41: ♣8 moved from waste pile to playing pile #7
+Score: 13
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♠9              ♥2          ♠5          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K           ♣K           --           --           --           --        
+   ♠Q                                     --           --           --           --        
+                                          --           --           --           ♦9        
+                                          ♠10          ♠6           --           ♣8        
+                                          ♥9           ♥5           ♠7                     
+                                          ♠8                        ♦6                     
+
+---------------------------------------------------------------------------------------------
+42: ♦10 moved from stock pile to waste pile
+Score: 13
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦10             ♥2          ♠5          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K           ♣K           --           --           --           --        
+   ♠Q                                     --           --           --           --        
+                                          --           --           --           ♦9        
+                                          ♠10          ♠6           --           ♣8        
+                                          ♥9           ♥5           ♠7                     
+                                          ♠8                        ♦6                     
+
+---------------------------------------------------------------------------------------------
+43: ♥3 moved from stock pile to waste pile
+Score: 13
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥3              ♥2          ♠5          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K           ♣K           --           --           --           --        
+   ♠Q                                     --           --           --           --        
+                                          --           --           --           ♦9        
+                                          ♠10          ♠6           --           ♣8        
+                                          ♥9           ♥5           ♠7                     
+                                          ♠8                        ♦6                     
+
+---------------------------------------------------------------------------------------------
+44: ♥3 moved from waste pile to output pile #1
+Score: 18
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦10             ♥3          ♠5          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K           ♣K           --           --           --           --        
+   ♠Q                                     --           --           --           --        
+                                          --           --           --           ♦9        
+                                          ♠10          ♠6           --           ♣8        
+                                          ♥9           ♥5           ♠7                     
+                                          ♠8                        ♦6                     
+
+---------------------------------------------------------------------------------------------
+45: ♥J moved from stock pile to waste pile
+Score: 18
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥J              ♥3          ♠5          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K           ♣K           --           --           --           --        
+   ♠Q                                     --           --           --           --        
+                                          --           --           --           ♦9        
+                                          ♠10          ♠6           --           ♣8        
+                                          ♥9           ♥5           ♠7                     
+                                          ♠8                        ♦6                     
+
+---------------------------------------------------------------------------------------------
+46: ♥J moved from waste pile to playing pile #1
+Score: 18
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦10             ♥3          ♠5          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K           ♣K           --           --           --           --        
+   ♠Q                                     --           --           --           --        
+   ♥J                                     --           --           --           ♦9        
+                                          ♠10          ♠6           --           ♣8        
+                                          ♥9           ♥5           ♠7                     
+                                          ♠8                        ♦6                     
+
+---------------------------------------------------------------------------------------------
+47: ♠10 moved from playing pile #4 to playing pile #1
+47: ♥9 moved from playing pile #4 to playing pile #1
+47: ♠8 moved from playing pile #4 to playing pile #1
+Score: 18
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦10             ♥3          ♠5          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K           ♣K           --           --           --           --        
+   ♠Q                                     --           --           --           --        
+   ♥J                                     ♠J           --           --           ♦9        
+   ♠10                                                 ♠6           --           ♣8        
+   ♥9                                                  ♥5           ♠7                     
+   ♠8                                                               ♦6                     
+
+---------------------------------------------------------------------------------------------
+48: ♦10 moved from waste pile to playing pile #4
+Score: 18
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♠9              ♥3          ♠5          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K           ♣K           --           --           --           --        
+   ♠Q                                     --           --           --           --        
+   ♥J                                     ♠J           --           --           ♦9        
+   ♠10                                    ♦10          ♠6           --           ♣8        
+   ♥9                                                  ♥5           ♠7                     
+   ♠8                                                               ♦6                     
+
+---------------------------------------------------------------------------------------------
+49: ♠9 moved from waste pile to playing pile #4
+Score: 18
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥4              ♥3          ♠5          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K           ♣K           --           --           --           --        
+   ♠Q                                     --           --           --           --        
+   ♥J                                     ♠J           --           --           ♦9        
+   ♠10                                    ♦10          ♠6           --           ♣8        
+   ♥9                                     ♠9           ♥5           ♠7                     
+   ♠8                                                               ♦6                     
+
+---------------------------------------------------------------------------------------------
+50: ♥4 moved from waste pile to output pile #1
+Score: 23
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥6              ♥4          ♠5          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K           ♣K           --           --           --           --        
+   ♠Q                                     --           --           --           --        
+   ♥J                                     ♠J           --           --           ♦9        
+   ♠10                                    ♦10          ♠6           --           ♣8        
+   ♥9                                     ♠9           ♥5           ♠7                     
+   ♠8                                                               ♦6                     
+
+---------------------------------------------------------------------------------------------
+51: ♥5 moved from playing pile #5 to output pile #1
+Score: 28
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥6              ♥5          ♠5          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K           ♣K           --           --           --           --        
+   ♠Q                                     --           --           --           --        
+   ♥J                                     ♠J           --           --           ♦9        
+   ♠10                                    ♦10          ♠6           --           ♣8        
+   ♥9                                     ♠9                        ♠7                     
+   ♠8                                                               ♦6                     
+
+---------------------------------------------------------------------------------------------
+52: ♠6 moved from playing pile #5 to output pile #2
+Score: 33
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥6              ♥5          ♠6          ♦A          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K           ♣K           --           --           --           --        
+   ♠Q                                     --           --           --           --        
+   ♥J                                     ♠J           ♦2           --           ♦9        
+   ♠10                                    ♦10                       --           ♣8        
+   ♥9                                     ♠9                        ♠7                     
+   ♠8                                                               ♦6                     
+
+---------------------------------------------------------------------------------------------
+53: ♦2 moved from playing pile #5 to output pile #3
+Score: 38
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥6              ♥5          ♠6          ♦2          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K           ♣K           --           --           --           --        
+   ♠Q                                     --           ♣7           --           --        
+   ♥J                                     ♠J                        --           ♦9        
+   ♠10                                    ♦10                       --           ♣8        
+   ♥9                                     ♠9                        ♠7                     
+   ♠8                                                               ♦6                     
+
+---------------------------------------------------------------------------------------------
+54: ♥6 moved from waste pile to output pile #1
+Score: 43
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣9              ♥6          ♠6          ♦2          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K           ♣K           --           --           --           --        
+   ♠Q                                     --           ♣7           --           --        
+   ♥J                                     ♠J                        --           ♦9        
+   ♠10                                    ♦10                       --           ♣8        
+   ♥9                                     ♠9                        ♠7                     
+   ♠8                                                               ♦6                     
+
+---------------------------------------------------------------------------------------------
+55: ♣J moved from stock pile to waste pile
+Score: 43
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣J              ♥6          ♠6          ♦2          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K           ♣K           --           --           --           --        
+   ♠Q                                     --           ♣7           --           --        
+   ♥J                                     ♠J                        --           ♦9        
+   ♠10                                    ♦10                       --           ♣8        
+   ♥9                                     ♠9                        ♠7                     
+   ♠8                                                               ♦6                     
+
+---------------------------------------------------------------------------------------------
+56: ♥7 moved from stock pile to waste pile
+Score: 43
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♥7              ♥6          ♠6          ♦2          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K           ♣K           --           --           --           --        
+   ♠Q                                     --           ♣7           --           --        
+   ♥J                                     ♠J                        --           ♦9        
+   ♠10                                    ♦10                       --           ♣8        
+   ♥9                                     ♠9                        ♠7                     
+   ♠8                                                               ♦6                     
+
+---------------------------------------------------------------------------------------------
+57: ♥7 moved from waste pile to output pile #1
+Score: 48
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣J              ♥7          ♠6          ♦2          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K           ♣K           --           --           --           --        
+   ♠Q                                     --           ♣7           --           --        
+   ♥J                                     ♠J                        --           ♦9        
+   ♠10                                    ♦10                       --           ♣8        
+   ♥9                                     ♠9                        ♠7                     
+   ♠8                                                               ♦6                     
+
+---------------------------------------------------------------------------------------------
+58: ♦7 moved from stock pile to waste pile
+Score: 48
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♦7              ♥7          ♠6          ♦2          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K           ♣K           --           --           --           --        
+   ♠Q                                     --           ♣7           --           --        
+   ♥J                                     ♠J                        --           ♦9        
+   ♠10                                    ♦10                       --           ♣8        
+   ♥9                                     ♠9                        ♠7                     
+   ♠8                                                               ♦6                     
+
+---------------------------------------------------------------------------------------------
+59: ♦7 moved from waste pile to playing pile #1
+Score: 48
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+ --        ♣J              ♥7          ♠6          ♦2          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K           ♣K           --           --           --           --        
+   ♠Q                                     --           ♣7           --           --        
+   ♥J                                     ♠J                        --           ♦9        
+   ♠10                                    ♦10                       --           ♣8        
+   ♥9                                     ♠9                        ♠7                     
+   ♠8                                                               ♦6                     
+   ♦7                                                                                      
+
+---------------------------------------------------------------------------------------------
+60: ♣10 moved from stock pile to waste pile
+Score: 48
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+empty      ♣10             ♥7          ♠6          ♦2          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K           ♣K           --           --           --           --        
+   ♠Q                                     --           ♣7           --           --        
+   ♥J                                     ♠J                        --           ♦9        
+   ♠10                                    ♦10                       --           ♣8        
+   ♥9                                     ♠9                        ♠7                     
+   ♠8                                                               ♦6                     
+   ♦7                                                                                      
+
+---------------------------------------------------------------------------------------------
+Final Status
+Score: 48
+Piles:
+Stock     Waste          Output1     Output2     Output3     Output4
+empty      ♣10             ♥7          ♠6          ♦2          ♣5        
+
+Playing1     Playing2     Playing3     Playing4     Playing5     Playing6     Playing7
+   ♦K           ♥K           ♣K           --           --           --           --        
+   ♠Q                                     --           ♣7           --           --        
+   ♥J                                     ♠J                        --           ♦9        
+   ♠10                                    ♦10                       --           ♣8        
+   ♥9                                     ♠9                        ♠7                     
+   ♠8                                                               ♦6                     
+   ♦7                                                                                      
+
+---------------------------------------------------------------------------------------------
+Game End!! Your final score is 48
+
+
+
+---------------------------------------------------------------------------------------------
