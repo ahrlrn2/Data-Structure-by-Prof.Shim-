@@ -17,11 +17,11 @@ int main() {
 
     // (c) Copy Constructor
     Polynomial *c = new Polynomial(a);
-    cout << c;
+    cout << *c;
 
     // (d) Assignment
     *c = b;
-    cout << c;
+    cout << *c;
 
     // (e) Destructor
     delete c;
@@ -35,8 +35,9 @@ int main() {
     // (h) Multiplication
     cout << a * b;
 
-    // (i) Evaluate
+    // // (i) Evaluate
     float x = 2.5;
-    cout << a.Evaluate(x);
-    cout << b.Evaluate(x);
+    cout << a.Evaluate(x) << endl;
+
+    cout << b.Evaluate(x) << endl;
 }
